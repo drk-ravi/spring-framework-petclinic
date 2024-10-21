@@ -23,6 +23,9 @@
         <!-- SonarQube configuration -->
         <sonar.organization>spring-petclinic</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <sonar.host.url>http://34.68.89.217:9000/</sonar.host.url>
+        <sonar.login>admin</sonar.login>
+        <sonar.password>12345</sonar.password>
 
         <!-- Spring -->
         <!-- For framework compatibility, refer to the Spring Boot Dependencies BOM and to the gradle.properties -->
